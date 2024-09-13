@@ -1,4 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/header.jpeg" width="50%" alt="pretty pls">
+</div>
+
+<h3 align="center">Pierre Segonne</h3>
+
+<div align="center">
+  <a href="https://pierresegonne.com/">website</a>
+  •
+  <a href="https://linkedin.com/in/psegonne">LinkedIn</a>
+  <br />
+  <br />
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierresegonne)](https://github.com/anuraghazra/github-readme-stats)
 
